@@ -10,8 +10,8 @@ def main(list1):
 
     while a < len(list1):
         if list1[a] == 0:
-            list1 == False
+            list1[a] == False
         else:
-            list1 == True
+            list1[a] == True
     a += 1
     return list1
