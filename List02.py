@@ -7,4 +7,4 @@ def main(list1):
         list: return answer
     """
     a = [1, 'sad', 1.3]
-    return a[1]
+    return a[0]
