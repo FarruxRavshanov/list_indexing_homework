@@ -6,4 +6,5 @@ def main(list1):
     Returns:
         list: return answer
     """
-    return
+    a = [1, 'sad', 1.3]
+    return a[1]
