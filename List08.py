@@ -13,5 +13,5 @@ def main(list1):
             list1[a] = False
         if list1[a] == 1:
             list1[a] = True
-    a += 1
+        a += 1
     return list1
