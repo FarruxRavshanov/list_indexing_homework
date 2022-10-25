@@ -10,7 +10,7 @@ def main(list1):
     c = 0
 
     while a < len(list1):
-        if a != 1:
+        if a != 0:
             a = True
         a += 1
     c += 1
