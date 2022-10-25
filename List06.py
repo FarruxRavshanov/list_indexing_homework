@@ -6,12 +6,4 @@ def main(list1):
     Returns:
         list: return answer
     """
-    a = 0
-    c = 0
-
-    while a < len(list1):
-        if a != 0:
-            a = True
-        a += 1
-    c += 1
-    return list1
+    return
