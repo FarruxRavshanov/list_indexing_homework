@@ -10,6 +10,6 @@ def main(list1):
 
     while a < len(list1):
         if list1[a] == 1:
-            list1[a] = 'True'
+            list1[a] = True
         a += 1
     return list1
