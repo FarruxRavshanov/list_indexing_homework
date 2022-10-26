@@ -6,12 +6,5 @@ def main(list1):
     Returns:
         bool: return answer
     """
-    i = 0
-
-    while i < len(list1):
-        if list1[0] == list1[i]:
-            a = 0 < 1
-        if list1[0] == list1[i]:
-            a = 1 < 0
-    i += 1
-    return a
+    a = [list1[0]] * len(list1)
+    return a == list1
