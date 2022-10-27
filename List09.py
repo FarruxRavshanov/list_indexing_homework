@@ -6,4 +6,5 @@ def main(list1):
     Returns:
         bool: return answer
     """
-    return [list[0]] * len(list1) == list1
+    a = [list[0]] * len(list1) == list1
+    return a
